@@ -1,0 +1,13 @@
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.exe
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.deps.json
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.runtimeconfig.json
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.runtimeconfig.dev.json
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.dll
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.pdb
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.csprojAssemblyReference.cache
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.AssemblyInfoInputs.cache
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.AssemblyInfo.cs
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.csproj.CoreCompileInputs.cache
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.dll
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.pdb
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Minesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.genruntimeconfig.cache
